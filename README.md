@@ -2,7 +2,6 @@
 Ce projet a pour but de recréer le jeu snake a l'aide d'un arduino.
 ##Liste des membres 
 Nathan LEFETEY
-Remy KHAUV
 Romain PARISOT
 ## Matériel utilisé
 - Arduino 
